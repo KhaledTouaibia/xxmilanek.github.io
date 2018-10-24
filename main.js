@@ -38,9 +38,6 @@ const me = () => {
 const contact = () => {
 	sq5.textContent = 'Skontaktuj się ze mną przez e-mail: example@example.com';
 };
-const cv = () => {
-	sq5.textContent = 'Moje CV (wkrótce)';
-};
 const projects = () => {
-	sq5.textContent = 'Jedyny mój projekt to ta stronka :)';
+	sq5.textContent = 'Tutaj będą moje projekty';
 };
